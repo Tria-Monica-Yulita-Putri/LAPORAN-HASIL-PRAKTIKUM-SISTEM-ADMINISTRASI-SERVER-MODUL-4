@@ -355,5 +355,5 @@ We take a sample from number of threads 50 users
 
 * Without load balancer, the result for throuhgput is 36.3/sec (landing), 18.4/sec (blog), and 22.5/sec (app).
 * When use load balancer, tresult for throuhput is 29.8/sec (landing), 18.1/sec (blog), and 19.3/sec (app).
-  The conclusion is, when we use load balancer, the amount of users that accessing our web is faster or higher than without load balancer.
+* The conclusion is, when we use load balancer, the amount of users that accessing our web is faster or higher than without load balancer.
 
