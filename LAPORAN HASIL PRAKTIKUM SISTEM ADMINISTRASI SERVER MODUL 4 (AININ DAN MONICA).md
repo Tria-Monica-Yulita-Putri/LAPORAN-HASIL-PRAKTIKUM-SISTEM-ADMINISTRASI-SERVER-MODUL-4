@@ -12,7 +12,7 @@
 
    
 
-   ![](C:\Users\TRIA YULITA\OneDrive\Dokumen\ITTS\SEMESTER 5\Sistem Administrasi Server\PRAK MODUL 4\1.png)
+   ![1](https://user-images.githubusercontent.com/92940432/148330391-b5537743-5f55-4ac2-ba96-0bef9c1cb222.png)
 
    
 
@@ -32,7 +32,7 @@
 
    
 
-   ![](C:\Users\TRIA YULITA\OneDrive\Dokumen\ITTS\SEMESTER 5\Sistem Administrasi Server\PRAK MODUL 4\2.png)
+   ![2](https://user-images.githubusercontent.com/92940432/148330399-4d9dcfa8-c8ff-47ef-8589-0da4dccf4cad.png)
 
    
 
@@ -52,7 +52,7 @@
 
    
 
-   ![](C:\Users\TRIA YULITA\OneDrive\Dokumen\ITTS\SEMESTER 5\Sistem Administrasi Server\PRAK MODUL 4\3.png)
+   ![3](https://user-images.githubusercontent.com/92940432/148330549-e8b0230c-4885-4235-b367-020d04a5899b.png)
 
    
 
@@ -64,7 +64,7 @@
 
    
 
-   ![](C:\Users\TRIA YULITA\OneDrive\Dokumen\ITTS\SEMESTER 5\Sistem Administrasi Server\PRAK MODUL 4\4.png)
+   ![4](https://user-images.githubusercontent.com/92940432/148330406-87164279-3a85-4f1e-8b89-c49c5a677bc3.png)
 
    
 
@@ -76,7 +76,7 @@
 
    
 
-   ![](C:\Users\TRIA YULITA\OneDrive\Dokumen\ITTS\SEMESTER 5\Sistem Administrasi Server\PRAK MODUL 4\5.png)
+   ![5](https://user-images.githubusercontent.com/92940432/148330408-f511218b-457c-4f21-b373-5fb287453f4e.png)
 
    
 
@@ -96,7 +96,7 @@
 
    
 
-   ![](C:\Users\TRIA YULITA\OneDrive\Dokumen\ITTS\SEMESTER 5\Sistem Administrasi Server\PRAK MODUL 4\6.png)
+   ![6](https://user-images.githubusercontent.com/92940432/148330411-90cb6e3b-b998-4c45-8035-41c3a4b84366.png)
 
    
 
@@ -104,7 +104,7 @@
 
    
 
-   ![](C:\Users\TRIA YULITA\OneDrive\Dokumen\ITTS\SEMESTER 5\Sistem Administrasi Server\PRAK MODUL 4\7.png)
+   ![7](https://user-images.githubusercontent.com/92940432/148330412-7f850d42-8d7e-4364-8863-c32902e3ff01.png)
 
    
 
@@ -120,7 +120,8 @@
 
    
 
-   ![](C:\Users\TRIA YULITA\OneDrive\Dokumen\ITTS\SEMESTER 5\Sistem Administrasi Server\PRAK MODUL 4\8.png)
+   ![8](https://user-images.githubusercontent.com/92940432/148330413-80d68973-a21b-45c9-b890-5e2be0305b2a.png)
+
 
    
 
@@ -140,7 +141,8 @@
 
    
 
-   ![](C:\Users\TRIA YULITA\OneDrive\Dokumen\ITTS\SEMESTER 5\Sistem Administrasi Server\PRAK MODUL 4\9.png)
+   ![9](https://user-images.githubusercontent.com/92940432/148330416-211b96a3-244c-44a7-90b3-0be6bf0161e8.png)
+
 
    
 
@@ -156,7 +158,7 @@
 
     
 
-    ![](C:\Users\TRIA YULITA\OneDrive\Dokumen\ITTS\SEMESTER 5\Sistem Administrasi Server\PRAK MODUL 4\10.png)
+    ![10](https://user-images.githubusercontent.com/92940432/148330417-45b87713-4906-4e58-995b-3ca779722339.png)
 
     
 
@@ -168,7 +170,7 @@
 
     
 
-    ![](C:\Users\TRIA YULITA\OneDrive\Dokumen\ITTS\SEMESTER 5\Sistem Administrasi Server\PRAK MODUL 4\11.png)
+    ![11](https://user-images.githubusercontent.com/92940432/148330420-9d72a224-fd77-4149-a904-5be608ecdecc.png)
 
     
 
@@ -180,7 +182,7 @@
 
     
 
-    ![](C:\Users\TRIA YULITA\OneDrive\Dokumen\ITTS\SEMESTER 5\Sistem Administrasi Server\PRAK MODUL 4\12.png)
+    ![12](https://user-images.githubusercontent.com/92940432/148330421-8e255d97-5d99-4908-8553-009a80823d53.png)
 
     
 
@@ -200,7 +202,7 @@
 
     
 
-    ![](C:\Users\TRIA YULITA\OneDrive\Dokumen\ITTS\SEMESTER 5\Sistem Administrasi Server\PRAK MODUL 4\13.png)
+    ![13](https://user-images.githubusercontent.com/92940432/148330423-d47bb53f-5b4a-4067-a650-e95fc224bbaa.png)
 
     
 
@@ -208,7 +210,8 @@
 
     
 
-    ![](C:\Users\TRIA YULITA\OneDrive\Dokumen\ITTS\SEMESTER 5\Sistem Administrasi Server\PRAK MODUL 4\14.png)
+    
+      ![14](https://user-images.githubusercontent.com/92940432/148330426-933d87ae-8338-49d6-84fe-22d3d34e4a50.png)
 
     
 
@@ -220,7 +223,8 @@
 
     
 
-    ![](C:\Users\TRIA YULITA\OneDrive\Dokumen\ITTS\SEMESTER 5\Sistem Administrasi Server\PRAK MODUL 4\15.png)
+    ![15](https://user-images.githubusercontent.com/92940432/148330427-4e048137-644f-4cd5-8371-4daae1036923.png)
+
 
     
 
